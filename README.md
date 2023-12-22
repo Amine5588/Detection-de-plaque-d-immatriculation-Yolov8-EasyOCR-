@@ -5,6 +5,8 @@ This project aims to demonstrate license plate recognition utilizing YOLOv8 for 
 ## Objective
 
 The primary objective is to detect license plates in images and extract the text from those plates using two different deep learning models: YOLOv8 for object detection and EasyOCR for text recognition.
+![output](download.png)
+
 
 ## Setup
 
